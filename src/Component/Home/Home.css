@@ -1,0 +1,10 @@
+.home {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  z-index: 100;
+}
+
+.home__icon {
+  padding: 10px;
+}
